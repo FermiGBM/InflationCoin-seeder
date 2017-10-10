@@ -1,7 +1,9 @@
-bitcoin-seeder
+InflationCoin-seeder
 ==============
 
-Bitcoin-seeder is a crawler for the Bitcoin network, which exposes a list
+A forked client of the original Bitcoin seeder by sipa for InflationCoin. WIP
+
+#Original: Bitcoin-seeder is a crawler for the Bitcoin network, which exposes a list
 of reliable nodes via a built-in DNS server.
 
 Features:

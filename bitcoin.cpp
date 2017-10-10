@@ -297,7 +297,7 @@ public:
 
 /*
 int main(void) {
-  CService ip("https://novaexchange.com/addnodes/IFLT/", 11370, true);
+  CService ip("novaexchange.com/addnodes/IFLT/", 11370, true);
   vector<CAddress> vAddr;
   vAddr.clear();
   int ban = 0;
